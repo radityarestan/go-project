@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/radityarestan/Projects/go-projects/go-micro'
+make: Leaving directory `/Users/radityarestan/Projects/go-projects/go-micro'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
